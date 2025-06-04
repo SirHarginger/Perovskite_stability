@@ -1,0 +1,15 @@
+Feature1,Feature2
+Cell_area_total,Cell_area_measured
+JV_reverse_scan_Voc,JV_forward_scan_Voc
+JV_reverse_scan_Voc,JV_default_Voc
+JV_reverse_scan_Jsc,JV_forward_scan_Jsc
+JV_reverse_scan_Jsc,JV_default_Jsc
+JV_reverse_scan_Jsc,EQE_integrated_Jsc
+JV_reverse_scan_FF,JV_default_FF
+JV_reverse_scan_PCE,JV_forward_scan_PCE
+JV_reverse_scan_PCE,JV_default_PCE
+JV_forward_scan_Voc,JV_default_Voc
+JV_forward_scan_Jsc,JV_default_Jsc
+JV_forward_scan_FF,JV_forward_scan_PCE
+JV_forward_scan_PCE,JV_default_PCE
+JV_default_Jsc,EQE_integrated_Jsc

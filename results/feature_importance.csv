@@ -1,0 +1,12 @@
+feature,importance
+Stability_time_total_exposure,0.32828686
+Stability_relative_humidity_average_value,0.119885355
+Stability_light_intensity,0.117924035
+JV_average_over_n_number_of_cells,0.11155517
+JV_reverse_scan_FF,0.06941366
+JV_default_Jsc,0.053441163
+Cell_area_measured,0.052093767
+JV_forward_scan_Voc,0.047123935
+Stability_PCE_initial_value,0.04012253
+JV_reverse_scan_PCE,0.03433309
+Perovskite_deposition_number_of_deposition_steps,0.025820462
