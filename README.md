@@ -4,19 +4,6 @@ This project predicts the **stability (T80)** of perovskite solar cells using ma
 
 ---
 
-##  Project Structure
-Perovskite_stability/
-├── data/ # Raw dataset (Perovskite.csv)
-├── notebooks/ # Jupyter notebook for exploratory analysis
-├── scripts/ # Python scripts for preprocessing and model training
-├── models/ # Trained models and preprocessing pipelines
-├── results/ # Output figures and evaluation metrics
-├── requirements.txt # Project dependencies
-└── README.md # Project documentation
-
-
----
-
 ## Setup Instructions
 
 1. **Clone the repository**:
